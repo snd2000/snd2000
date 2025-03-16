@@ -19,7 +19,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snd2000&show_icons=true&locale=en&layout=compact" alt="snd2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snd2000&" alt="snd2000" /></p>
-
-
-https://e2.udemymail.com/ls/click?upn=u001.nWn-2BtWPikR2ffCZ57VsEbFNaoCfjxqMpCE-2FtmiaJKEI1XR884mrlNreq-2FNsahGD2imdH6skQ3QW3tlUNlihTSVjO3p4aakaJAG-2Bq7DfY-2FkZmotpXctZ4vtBCIRsjBwrFX-2FZ7StxIHYFAh-2BVIM8jmrXtKQu2Y3pKBYs9y4mQ-2BZwvR2K5mJ5EAbxBqB3Q9bCJ1DuIrlZPCKfP6vG9AGA-2FQjw6sqK5YH9W4G3LaNVx9sUsMHht-2BzYogntL0S7qbEuwwsrZUsUXIrYARb3KLToyYdA-3D-3DWbsO_FkMSKw8HHkWres06nctQSGs91BhoQ0A1aFO2m3zq2euTqLvMgEMWsUdAo1DL-2BFo738LrdSS9PUYVfLrKMk1JTZSun6bVhe-2BEVsPziGnQVUhTk8-2BPDFmEL-2BjdnpZINWTHYLAjCJP-2FtaYtJE5HrjoOvKo2Ik8fUZ-2B8idIAxNC78IOOplpK2O4eqhTHufc0B6Kt-2BtUBiOuL9-2BlcPql9wavevgmWKmNaQ9pnom0KPNfzsmjLf78KwyCYc5N-2F-2F5hrihrTOQ72S6nDtiXeOE7LOr3CXKJJqtuj76wUhyfvF-2BSxdYWck9UTtOus-2FkVIfaWhmjpcO25j8uRD0dBiqfvDPdvoNXFru1OR-2B5bEFz8-2BBQ56qpqw1FEgtBgUM08n7ubHkKZO
-
